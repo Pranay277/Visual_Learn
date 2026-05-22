@@ -1,0 +1,157 @@
+[
+  {
+    "id": "Meshy_AI_Anatomical_Heart_with_0518112453_texture_fbx",
+    "name": "Anatomical Heart",
+    "path": "/models/biology/Meshy_AI_Anatomical_Heart_with_0518112453_texture_fbx/",
+    "fbx": "Meshy_AI_Anatomical_Heart_with_0518112453_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Anatomical_Heart_with_0518112453_texture.png",
+      "normal": "Meshy_AI_Anatomical_Heart_with_0518112453_texture_normal.png",
+      "roughness": "Meshy_AI_Anatomical_Heart_with_0518112453_texture_roughness.png",
+      "metallic": "Meshy_AI_Anatomical_Heart_with_0518112453_texture_metallic.png",
+      "emission": "Meshy_AI_Anatomical_Heart_with_0518112453_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Anatomical_Human_Hear_0518182611_texture_fbx",
+    "name": "Anatomical Human Hear",
+    "path": "/models/biology/Meshy_AI_Anatomical_Human_Hear_0518182611_texture_fbx/",
+    "fbx": "Meshy_AI_Anatomical_Human_Hear_0518182611_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Anatomical_Human_Hear_0518182611_texture.png",
+      "normal": "Meshy_AI_Anatomical_Human_Hear_0518182611_texture_normal.png",
+      "roughness": "Meshy_AI_Anatomical_Human_Hear_0518182611_texture_roughness.png",
+      "metallic": "Meshy_AI_Anatomical_Human_Hear_0518182611_texture_metallic.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Azure_Iris_Orb_0518181230_texture_fbx",
+    "name": "Azure Iris Orb",
+    "path": "/models/biology/Meshy_AI_Azure_Iris_Orb_0518181230_texture_fbx/",
+    "fbx": "Meshy_AI_Azure_Iris_Orb_0518181230_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Azure_Iris_Orb_0518181230_texture.png",
+      "normal": "Meshy_AI_Azure_Iris_Orb_0518181230_texture_normal.png",
+      "roughness": "Meshy_AI_Azure_Iris_Orb_0518181230_texture_roughness.png",
+      "metallic": "Meshy_AI_Azure_Iris_Orb_0518181230_texture_metallic.png",
+      "emission": "Meshy_AI_Azure_Iris_Orb_0518181230_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Bottle_gourd_0518181244_texture_fbx",
+    "name": "Bottle gourd",
+    "path": "/models/biology/Meshy_AI_Bottle_gourd_0518181244_texture_fbx/",
+    "fbx": "Meshy_AI_Bottle_gourd_0518181244_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Bottle_gourd_0518181244_texture.png",
+      "normal": "Meshy_AI_Bottle_gourd_0518181244_texture_normal.png",
+      "roughness": "Meshy_AI_Bottle_gourd_0518181244_texture_roughness.png",
+      "metallic": "Meshy_AI_Bottle_gourd_0518181244_texture_metallic.png",
+      "emission": "Meshy_AI_Bottle_gourd_0518181244_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Braided_Intestines_0518181813_texture_fbx",
+    "name": "Braided Intestines",
+    "path": "/models/biology/Meshy_AI_Braided_Intestines_0518181813_texture_fbx/",
+    "fbx": "Meshy_AI_Braided_Intestines_0518181813_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Braided_Intestines_0518181813_texture.png",
+      "normal": "Meshy_AI_Braided_Intestines_0518181813_texture_normal.png",
+      "roughness": "Meshy_AI_Braided_Intestines_0518181813_texture_roughness.png",
+      "metallic": "Meshy_AI_Braided_Intestines_0518181813_texture_metallic.png",
+      "emission": "Meshy_AI_Braided_Intestines_0518181813_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Intestine_0518181559_texture_fbx",
+    "name": "Intestine",
+    "path": "/models/biology/Meshy_AI_Intestine_0518181559_texture_fbx/",
+    "fbx": "Meshy_AI_Intestine_0518181559_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Intestine_0518181559_texture.png",
+      "normal": "Meshy_AI_Intestine_0518181559_texture_normal.png",
+      "roughness": "Meshy_AI_Intestine_0518181559_texture_roughness.png",
+      "metallic": "Meshy_AI_Intestine_0518181559_texture_metallic.png",
+      "emission": "Meshy_AI_Intestine_0518181559_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Kidney_with_renal_art_0518181338_texture_fbx",
+    "name": "Kidney",
+    "path": "/models/biology/Meshy_AI_Kidney_with_renal_art_0518181338_texture_fbx/",
+    "fbx": "Meshy_AI_Kidney_with_renal_art_0518181338_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Kidney_with_renal_art_0518181338_texture.png",
+      "normal": "Meshy_AI_Kidney_with_renal_art_0518181338_texture_normal.png",
+      "roughness": "Meshy_AI_Kidney_with_renal_art_0518181338_texture_roughness.png",
+      "metallic": "Meshy_AI_Kidney_with_renal_art_0518181338_texture_metallic.png",
+      "emission": "Meshy_AI_Kidney_with_renal_art_0518181338_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture_fbx",
+    "name": "Kidney with Renal Ves",
+    "path": "/models/biology/Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture_fbx/",
+    "fbx": "Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture.png",
+      "normal": "Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture_normal.png",
+      "roughness": "Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture_roughness.png",
+      "metallic": "Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture_metallic.png",
+      "emission": "Meshy_AI_Kidney_with_Renal_Ves_0518181906_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Large_Intestine_Colo_0518181729_texture_fbx",
+    "name": "Large Intestine Colo",
+    "path": "/models/biology/Meshy_AI_Large_Intestine_Colo_0518181729_texture_fbx/",
+    "fbx": "Meshy_AI_Large_Intestine_Colo_0518181729_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Large_Intestine_Colo_0518181729_texture.png",
+      "normal": "Meshy_AI_Large_Intestine_Colo_0518181729_texture_normal.png",
+      "roughness": "Meshy_AI_Large_Intestine_Colo_0518181729_texture_roughness.png",
+      "metallic": "Meshy_AI_Large_Intestine_Colo_0518181729_texture_metallic.png",
+      "emission": "Meshy_AI_Large_Intestine_Colo_0518181729_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Liver_with_Gallbladde_0518181938_texture_fbx",
+    "name": "Liver with Gallbladde",
+    "path": "/models/biology/Meshy_AI_Liver_with_Gallbladde_0518181938_texture_fbx/",
+    "fbx": "Meshy_AI_Liver_with_Gallbladde_0518181938_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Liver_with_Gallbladde_0518181938_texture.png",
+      "normal": "Meshy_AI_Liver_with_Gallbladde_0518181938_texture_normal.png",
+      "roughness": "Meshy_AI_Liver_with_Gallbladde_0518181938_texture_roughness.png",
+      "metallic": "Meshy_AI_Liver_with_Gallbladde_0518181938_texture_metallic.png",
+      "emission": "Meshy_AI_Liver_with_Gallbladde_0518181938_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Lungs_and_Trachea_0518181929_texture_fbx",
+    "name": "Lungs and Trachea",
+    "path": "/models/biology/Meshy_AI_Lungs_and_Trachea_0518181929_texture_fbx/",
+    "fbx": "Meshy_AI_Lungs_and_Trachea_0518181929_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Lungs_and_Trachea_0518181929_texture.png",
+      "normal": "Meshy_AI_Lungs_and_Trachea_0518181929_texture_normal.png",
+      "roughness": "Meshy_AI_Lungs_and_Trachea_0518181929_texture_roughness.png",
+      "metallic": "Meshy_AI_Lungs_and_Trachea_0518181929_texture_metallic.png",
+      "emission": "Meshy_AI_Lungs_and_Trachea_0518181929_texture_emission.png"
+    }
+  },
+  {
+    "id": "Meshy_AI_Stomach_0518181855_texture_fbx",
+    "name": "Stomach",
+    "path": "/models/biology/Meshy_AI_Stomach_0518181855_texture_fbx/",
+    "fbx": "Meshy_AI_Stomach_0518181855_texture.fbx",
+    "textures": {
+      "baseColor": "Meshy_AI_Stomach_0518181855_texture.png",
+      "normal": "Meshy_AI_Stomach_0518181855_texture_normal.png",
+      "roughness": "Meshy_AI_Stomach_0518181855_texture_roughness.png",
+      "metallic": "Meshy_AI_Stomach_0518181855_texture_metallic.png",
+      "emission": "Meshy_AI_Stomach_0518181855_texture_emission.png"
+    }
+  }
+]
