@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# This redirect rule is crucial for React Router (Single Page Applications)
+# It ensures that if a user refreshes on a sub-page (like /biology), 
+# Netlify routes them back to index.html instead of showing a 404 error.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
